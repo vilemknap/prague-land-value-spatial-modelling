@@ -11,6 +11,17 @@ The analysis explicitly addresses spatial autocorrelation and spatial heterogene
 How does proximity to different public transport modes (metro, tram, bus, rail) affect residential land prices, and how do these effects vary across space?
 
 ---
+## Notebooks
+
+- `00_Research_Context.ipynb` – Problem motivation and conceptual framing  
+- `01_Data_Preprocessing.ipynb` – Data cleaning, filtering, and spatial preparation  
+- `02_Accessibility_Distances.ipynb` – Computation of distance-based accessibility indicators  
+- `03_Initial_Visual_Exploration.ipynb` – Exploratory data analysis and spatial patterns  
+- `04_Spatial_Autocorrelation.ipynb` – Global and local spatial autocorrelation diagnostics  
+- `05_Spatial_Modelling.ipynb` – OLS, GWR, and MGWR estimation and comparison  
+- `06_Synthesis_and_Conclusions.ipynb` – Integrated interpretation and key findings
+
+---
 
 ## Key Contributions
 
