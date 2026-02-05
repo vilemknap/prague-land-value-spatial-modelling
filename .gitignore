@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/*.gpkg
+data/processed/*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
