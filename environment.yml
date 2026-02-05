@@ -1,0 +1,12 @@
+name: prague-spatial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - geopandas
+  - pandas
+  - numpy
+  - matplotlib
+  - pysal
+  - mgwr
+  - jupyterlab
