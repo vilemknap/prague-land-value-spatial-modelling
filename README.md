@@ -50,10 +50,33 @@ MGWR estimation and interpretation in progress.
 
 ---
 
-## Notes on Data
 
-Due to licensing constraints, raw input datasets are not included in this repository.  
-Processed datasets and code are provided to ensure full methodological transparency.
+# Data Sources
+
+All datasets used in this project are publicly available open data.
+
+## Land Price Zones
+Source: Prague City Hall  
+Licence: CC BY 4.0  
+Description: Official land price map used for taxation and planning purposes.
+
+## Land Use / Zoning
+Source: Prague Institute of Planning and Development (IPR)  
+Licence: CC BY  
+Description: Land use classification used to identify residential and mixed-use areas.
+
+## Public Transport Stops
+Source: Prague Open Data Portal (GTFS-derived)  
+Licence: CC BY  
+Description: Locations of public transport stops, filtered by transport mode.
+
+## Administrative Boundaries
+Source: Czech Office for Surveying, Mapping and Cadastre  
+Licence: CC0  
+Description: Administrative units used to derive Prague city boundary.
+
+## Notes
+Processed datasets were derived from the above sources and are fully reproducible using the notebooks in the `notebooks/` directory.
 
 ---
 
