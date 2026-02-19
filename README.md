@@ -55,13 +55,6 @@ How does proximity to different public transport modes (metro, tram, bus, rail) 
 
 ---
 
-## Project Status
-
-MGWR estimation and interpretation in progress.
-
----
-
-
 # Data Sources
 
 All datasets used in this project are publicly available open data.
